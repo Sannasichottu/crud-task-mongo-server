@@ -1,0 +1,13 @@
+{
+    "firstname" : "abc123",
+    "lastname" : "xyz123",
+    "username" : "test",
+    "dob" : "2005-12-11",
+    "gmail" : "test@gmail.com",
+    "password" : "test123",
+    "mobile" : "9800583692",
+    "address" : "432h street",
+    "district" : "Coimbatore",
+    "state" : "Tamilnadu",
+    "pincode" :"128152"
+}
